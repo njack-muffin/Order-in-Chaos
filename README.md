@@ -2,7 +2,7 @@
 
 > Reconstruct the story — one frame at a time.
 ---
-
+![gif](https://github.com/njack-muffin/Order-in-Chaos/blob/main/shuffling.gif)
 ## 🧠 About the Challenge
 
 In this machine learning competition, your task is to **sort shuffled video frames** back into their correct chronological order.  
