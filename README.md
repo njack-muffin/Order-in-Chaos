@@ -5,10 +5,12 @@
 
 ## 🧠 About the Challenge
 
-In this machine learning competition, your task is to *sort shuffled video frames* back into their correct chronological order.  
-It's a unique challenge that blends *computer vision, **temporal modeling, and **sequence learning*.
+In this machine learning competition, your task is to **sort shuffled video frames** back into their correct chronological order.  
+It's a unique challenge that blends **computer vision**, **temporal modeling**, and **sequence learning**.
 
 Think you can teach a machine to understand time or sequence?
+
+You are allowed to participate as an **individual** or as a **team**.
 
 ---
 
@@ -16,30 +18,30 @@ Think you can teach a machine to understand time or sequence?
 
 Given a set of shuffled frames extracted from a video:
 
-- *Input*: N unordered image frames from a single video.
-- *Output*: The correct chronological sequence of those frames (as indices or filenames).
+- **Input**: N unordered image frames from a single video.
+- **Output**: The correct chronological sequence of those frames (as indices or filenames).
 
 ---
 
 ## 🗂 Dataset
 
-- 📦 *Dataset Format*: Each sample contains:
-  - Feature Templates/: A folder with some provided features
-  - Randomized Images/: A folder with images (e.g., 001.jpg, 002.jpg, ...)
-  - info.txt: Some more information. 
+- 📦 **Dataset Format**: 
+  - `Feature Templates/`: A folder with some provided features
+  - `Randomized Images/`: A folder with images (e.g., 001.jpg, 002.jpg, ...)
+  - `info.txt`: Some important information. 
 
-- 📥 *Download Dataset*: [Link to Dataset](https://cciitpatna-my.sharepoint.com/:u:/g/personal/soumabho_2401ai09_iitp_ac_in/EUbHrz0ZwIFAnhw8MV75Wm0BAAF4JdNnu3Zi2rk5SMxNHQ?e=FCiWRy)
+- 📥 **Download Dataset**: [Link to Dataset](https://cciitpatna-my.sharepoint.com/:u:/g/personal/soumabho_2401ai09_iitp_ac_in/EUbHrz0ZwIFAnhw8MV75Wm0BAAF4JdNnu3Zi2rk5SMxNHQ?e=FCiWRy)
 
 ---
 
 ## 🗂 Submission
 
-- Provide us your solution using this form
+- Provide us your solution using this form - [**Link to Submission Form**](https://docs.google.com/forms/d/e/1FAIpQLSeHFyql46rP1GfWDuaYgJWfcAYkYPExFIEpkjB-uoy4UEXrkw/viewform?usp=dialog)
 
 ## 🧪 Evaluation Metric
 
 Submissions are evaluated using:
 
- *No. of frames in correct position/ longest increasing subsequences* 📉 
+ **No. of frames in correct position/ longest increasing subsequences (Higher is better)** 
 
 ---
