@@ -42,6 +42,7 @@ Given a set of shuffled frames extracted from a video:
 
 Submissions are evaluated using:
 
- **No. of frames in correct position/ longest increasing subsequences (Higher is better)** 
+ **No. of frames in correct position/ longest increasing subsequences (Higher is better)**<br>
+**Special points if you do not use feature templates**<br>
 
 ---
