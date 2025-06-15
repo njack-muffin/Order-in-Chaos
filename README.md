@@ -30,7 +30,7 @@ Given a set of shuffled frames extracted from a video:
   - `Randomized Images/`: A folder with images (e.g., 001.jpg, 002.jpg, ...)
   - `info.txt`: Some important information. 
 
-- 📥 **Download Dataset**: [Link to Dataset](https://cciitpatna-my.sharepoint.com/:u:/g/personal/soumabho_2401ai09_iitp_ac_in/EUbHrz0ZwIFAnhw8MV75Wm0BAAF4JdNnu3Zi2rk5SMxNHQ?e=FCiWRy)
+- 📥 **Download Dataset**:  &nbsp; [**Link1**](https://cciitpatna-my.sharepoint.com/:u:/g/personal/soumabho_2401ai09_iitp_ac_in/EUbHrz0ZwIFAnhw8MV75Wm0BAAF4JdNnu3Zi2rk5SMxNHQ?e=FCiWRy) &nbsp;  &nbsp; [**Link2**](https://drive.google.com/file/d/1R40CC6V86XvLf6XgKB6x3FmfcUNRroSW/view?usp=sharing)  &nbsp; &nbsp; (Choose any one)
 
 ---
 
