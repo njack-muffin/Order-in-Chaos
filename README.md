@@ -19,7 +19,7 @@ You are allowed to submit **3 solutions** at max. We will consider the one with 
 
 Given a set of shuffled frames extracted from a video:
 
-- **Input**: N unordered image frames from a single video.
+- **Input**: 99 unordered image frames from a single video and the **starting frame**.
 - **Output**: The correct chronological sequence of those frames (as indices or filenames).
 
 ---
