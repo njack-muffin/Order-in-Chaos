@@ -10,7 +10,8 @@ It's a unique challenge that blends **computer vision**, **temporal modeling**, 
 
 Think you can teach a machine to understand time or sequence?
 
-You are allowed to participate as an **individual** or as a **team**.
+You are allowed to participate as an **individual** or as a **team**.<br>
+You are allowed to submit **3 solutions** at max. We will consider the one with the **best score**.
 
 ---
 
