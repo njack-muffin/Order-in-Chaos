@@ -47,7 +47,7 @@ Submissions are evaluated using:
  For example : <br>
 If the correct sequence is [1, 2, 3, 4, 5]
 - Suppose, if you have predicted [1, 3, 4, 5, 2], your Score : 4 as length of [1, 3, 4, 5] <br>
-- Suppose, if you have predicted [3, 2, 4, 5, 1], your Score : 3 as length of [2, 4, 5] <br>
+- Suppose, if you have predicted [3, 2, 4, 5, 1], your Score : 3 as length of [2, 4, 5] or [3, 4, 5] <br>
 
 **Special points will be accordingly awarded if you do not use feature templates**<br>
 
